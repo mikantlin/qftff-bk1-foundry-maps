@@ -1,0 +1,20 @@
+{
+  "name": "qtff-maps-remake",
+  "title": "Quest for the Frozen Flame Maps Remake",
+  "description": "<p>My collection of maps for Paizo Publishing's Pathfinder 2E QUEST FOR THE FROZEN FLAME Adventure Path.</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "9.249",
+  "compatibleCoreVersion": "9.249",
+  "author": "artjuice-maps",
+  "packs": [
+    {
+      "name": "qftff-maps-remake-book-1-by-artjuice",
+      "label": "QftFF Maps Remake - Book 1",
+      "path": "/packs/qftff-maps-remake-book-1-by-artjuice.db",
+      "entity": "Scene"
+    }
+  ],
+  "url": "https://gitlab.com/artjuice-maps/quest-for-the-frozen-flame-maps-remake",
+  "manifest": "https://gitlab.com/artjuice-maps/quest-for-the-frozen-flame-maps-remake/-/raw/master/module.json",
+  "download": "https://gitlab.com/artjuice-maps/quest-for-the-frozen-flame-maps-remake/-/archive/master/quest-for-the-frozen-flame-maps-remake.zip"
+}
