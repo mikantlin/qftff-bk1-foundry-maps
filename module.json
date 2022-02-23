@@ -12,7 +12,7 @@
 		"path": "/packs/qftff-maps-remake-book-1-by-artjuice.db",
 		"entity": "Scene"
 	}],
-	"url": "https://gitlab.com/artjuice-maps/quest-for-the-frozen-flame-maps-remake",
-	"manifest": "https://gitlab.com/artjuice-maps/quest-for-the-frozen-flame-maps-remake/-/raw/master/module.json",
-	"download": "https://gitlab.com/artjuice-maps/quest-for-the-frozen-flame-maps-remake/-/archive/master/quest-for-the-frozen-flame-maps-remake.zip"
+	"url": "https://gitlab.com/artjuice-maps/qftff-maps-remake",
+	"manifest": "https://gitlab.com/artjuice-maps/qftff-maps-remake/-/raw/master/module.json",
+	"download": "https://gitlab.com/artjuice-maps/qftff-maps-remake/-/archive/master/quest-for-the-frozen-flame-maps-remake.zip"
 }
