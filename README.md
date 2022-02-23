@@ -19,7 +19,7 @@ INKARNATE - All of the maps were created in [Inkarnate Pro](https://inkarnate.co
 Once you have installed and activated the module, the scenes will appear as compendium in your game. Import that to have the scenes all ready to go.
 
 ```
-https://gitlab.com/artjuice-maps/quest-for-the-frozen-flame-maps-remake/-/raw/master/module.json
+https://gitlab.com/artjuice-maps/qftff-maps-remake/-/raw/master/module.json
 ```
 
-[![Preview Image](preview/qftff1-preview.jpg)](https://gitlab.com/artjuice-maps/quest-for-the-frozen-flame-maps-remake/-/raw/master/preview/qftff1-preview.jpg)
+[![Preview Image](preview/qftff1-preview.jpg)](https://gitlab.com/artjuice-maps/qftff-maps-remake/-/raw/master/preview/qftff1-preview.jpg)
