@@ -1,6 +1,6 @@
 # Quest for the Frozen Flame Maps Remake
 
-This FoundryVTT module is a compilation of maps for Pathfinder 2E Quest for the Frozen Flame Adventure Path. It includes maps for the first three books.
+This FoundryVTT module is a compilation of maps for Pathfinder 2E Quest for the Frozen Flame Adventure Path. It currently includes maps for the first book, but there are plans to add maps for the later books once I have the time.
 
 All maps are designed for [FoundryVTT](https://foundryvtt.com/), with the walls already set up. The Gleaming Sun Lake map includes an already set-up tile to hide the cave.
 
