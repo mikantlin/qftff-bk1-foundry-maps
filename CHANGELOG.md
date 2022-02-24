@@ -1,4 +1,9 @@
-# 1.1.0
+# 1.0.1
+
+* Updated lighting on High Barrows, Red Cat Cave, and Rimecrag Pass
+* Reduced file size of all images
+
+# 1.0.0
 
 * Initial Release
 
