@@ -1,18 +1,31 @@
 {
+	"id": "qftff-bk1-foundry-maps",
 	"name": "qftff-maps-remake",
 	"title": "Quest for the Frozen Flame Maps Remake",
-	"description": "<p>My collection of maps for Paizo Publishing's Pathfinder 2E QUEST FOR THE FROZEN FLAME Adventure Path.</p>",
-	"version": "1.0.1",
-	"minimumCoreVersion": "9.249",
-	"compatibleCoreVersion": "9.249",
-	"author": "artjuice-maps",
-	"packs": [{
-		"name": "qftff-maps-remake-book-1-by-artjuice",
-		"label": "QftFF Maps Remake - Book 1",
-		"path": "/packs/qftff-maps-remake-book-1-by-artjuice.db",
-		"entity": "Scene"
-	}],
-	"url": "https://gitlab.com/artjuice-maps/qftff-maps-remake",
-	"manifest": "https://gitlab.com/artjuice-maps/qftff-maps-remake/-/raw/master/module.json",
-	"download": "https://gitlab.com/artjuice-maps/qftff-maps-remake/-/archive/master/quest-for-the-frozen-flame-maps-remake.zip"
+	"type": "module",
+	"description": "<p>A collection of Book 1 maps for Paizo Publishing's Pathfinder 2E QUEST FOR THE FROZEN FLAME Adventure Path.</p>",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "9.249",
+		"verified": "9.249"
+	},
+	"author": [
+		{
+			"name": "mikantlin"
+		},
+		{
+			"name": "artjuice-maps"
+		}
+	],
+	"packs": [
+		{
+			"label": "QftFF Maps Remake - Book 1",
+			"name": "qftff-maps-remake-book-1-by-artjuice",
+			"path": "/packs/qftff-maps-remake-book-1-by-artjuice.db",
+			"type": "Scene"
+		}
+	],
+	"url": "https://github.com/mikantlin/qftff-bk1-foundry-maps",
+	"manifest": "https://github.com/mikantlin/qftff-bk1-foundry-maps/raw/master/module.json",
+	"download": "https://github.com/mikantlin/qftff-bk1-foundry-maps/archive/master.zip"
 }
