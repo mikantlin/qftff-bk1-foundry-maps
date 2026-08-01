@@ -9,12 +9,14 @@
 		"minimum": "9.249",
 		"verified": "9.249"
 	},
-	"author": [
+	"authors": [
 		{
-			"name": "mikantlin"
+			"name": "mikantlin",
+			"url": "https://github.com/mikantlin"
 		},
 		{
-			"name": "artjuice-maps"
+			"name": "artjuice-maps",
+			"url": "https://gitlab.com/artjuice-maps"
 		}
 	],
 	"packs": [
