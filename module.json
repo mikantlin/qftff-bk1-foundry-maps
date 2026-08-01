@@ -26,6 +26,6 @@
 		}
 	],
 	"url": "https://github.com/mikantlin/qftff-bk1-foundry-maps",
-	"manifest": "https://github.com/mikantlin/qftff-bk1-foundry-maps/raw/master/module.json",
-	"download": "https://github.com/mikantlin/qftff-bk1-foundry-maps/archive/master.zip"
+	"manifest": "https://github.com/mikantlin/qftff-bk1-foundry-maps/raw/main/module.json",
+	"download": "https://github.com/mikantlin/qftff-bk1-foundry-maps/archive/main.zip"
 }
