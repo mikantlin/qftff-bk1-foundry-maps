@@ -1,6 +1,6 @@
 # Quest for the Frozen Flame Maps - Book 1
 
-A FoundryVTT module containing maps for Pathfinder 2E's Quest for the Frozen Flame Adventure Path. Built based on [this module](https://gitlab.com/artjuice-maps/qftff-maps-remake) by artjuice-maps, and updated for version 14 of FoundryVTT.
+A FoundryVTT module containing maps for Pathfinder 2E's Quest for the Frozen Flame Adventure Path. Built based on [this module](https://gitlab.com/artjuice-maps/qftff-maps-remake) by artjuice-maps, updated for version 14 of FoundryVTT.
 
 ---
 
