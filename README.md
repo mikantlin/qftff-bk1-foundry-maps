@@ -21,7 +21,7 @@ INKARNATE - All of the maps were created in [Inkarnate Pro](https://inkarnate.co
 Once you have installed and activated the module, the scenes will appear as compendium in your game. Import that to have the scenes all ready to go.
 
 ```
-https://github.com/mikantlin/qftff-bk1-foundry-maps/raw/master/module.json
+https://github.com/mikantlin/qftff-bk1-foundry-maps/raw/main/module.json
 ```
 
-[![Preview Image](preview/qftff1-preview.jpg)](https://github.com/mikantlin/qftff-bk1-foundry-maps/raw/master/preview/qftff1-preview.jpg)
+[![Preview Image](preview/qftff1-preview.jpg)](https://github.com/mikantlin/qftff-bk1-foundry-maps/raw/main/preview/qftff1-preview.jpg)
