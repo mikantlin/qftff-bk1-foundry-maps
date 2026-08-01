@@ -1,7 +1,7 @@
 {
 	"id": "qftff-bk1-foundry-maps",
-	"name": "qftff-maps-remake",
-	"title": "Quest for the Frozen Flame Maps Remake",
+	"name": "qftff-bk1-foundry-maps",
+	"title": "Quest for the Frozen Flame Maps (Book 1)",
 	"type": "module",
 	"description": "<p>A collection of Book 1 maps for Paizo Publishing's Pathfinder 2E QUEST FOR THE FROZEN FLAME Adventure Path.</p>",
 	"version": "1.0.0",
