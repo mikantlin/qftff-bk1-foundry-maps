@@ -1,30 +1,24 @@
-# 1.0.1
-
-* Updated lighting on High Barrows, Red Cat Cave, and Rimecrag Pass
-* Reduced file size of all images
-
 # 1.0.0
 
 * Initial Release
 
-    #### Book 1
-    * Box Canyon
-    * Cold Lake Camp
-    * Crested Dinosaur
-    * Ethgir Route
-    * Gleaming Sun Lake
-    * Gornok River
-    * High Barrows
-    * Hunter's Ledge
-    * Moose Hunt
-    * Old Battleground
-    * Poison Bringers
-    * Quickling Wood
-    * Quiet Ones
-    * Reaver Squad
-    * Red Cat Cave
-    * Rimecrag Pass
-    * Rockloom
-    * Syorn Route
-    * Tapir Grove
-    
+#### Book 1
+* Box Canyon
+* Cold Lake Camp
+* Crested Dinosaur
+* Ethgir Route
+* Gleaming Sun Lake
+* Gornok River
+* High Barrows
+* Hunter's Ledge
+* Moose Hunt
+* Old Battleground
+* Poison Bringers
+* Quickling Wood
+* Quiet Ones
+* Reaver Squad
+* Red Cat Cave
+* Rimecrag Pass
+* Rockloom
+* Syorn Route
+* Tapir Grove
